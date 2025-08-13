@@ -5,8 +5,10 @@ This project demonstrates the deployment of a simple static HTML website to an A
 ## Project Overview
 
 The goal of this project was to gain hands-on experience with core cloud and DevOps tools. It involved two main phases:
-1.  **Manual Deployment:** I first deployed the website manually through the AWS Management Console to understand the underlying services, including S3 bucket configuration, public access settings, and bucket policies.
-2.  **Automated Deployment:** I then destroyed the manual setup and re-created the entire infrastructure using a Terraform script. This automates the process, making it repeatable, versionable, and less prone to human error.
+
+**Manual Deployment:** I first deployed the website manually through the AWS Management Console to understand the underlying services, including S3 bucket configuration, public access settings, and bucket policies.
+
+**Automated Deployment:** I then destroyed the manual setup and re-created the entire infrastructure using a Terraform script. This automates the process, making it repeatable, versionable, and less prone to human error.
 
 ---
 
